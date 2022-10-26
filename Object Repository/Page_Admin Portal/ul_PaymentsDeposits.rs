@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_PaymentsDeposits</name>
+   <tag></tag>
+   <elementGuidId>35a87c96-6c6c-45df-86da-f2bec262243f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>4d6c2be7-4268-4464-bcf5-1ef2dd663f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PaymentsDeposits</value>
+      <webElementGuid>a14c4885-6ebb-4c84-86b0-a0f44cddf3d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/div[@class=&quot;topbar-left&quot;]/p-breadcrumb[@class=&quot;p-element&quot;]/div[@class=&quot;p-breadcrumb p-component&quot;]/ul[1]</value>
+      <webElementGuid>2ba75658-0066-4990-ac4a-04dd53156e53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>f33c73ce-c21b-4566-91d3-1303353cbed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'PaymentsDeposits' or . = 'PaymentsDeposits')]</value>
+      <webElementGuid>e0c8c30a-061b-4101-9aa6-b4917a41ed53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

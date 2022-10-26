@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Users</name>
+   <tag></tag>
+   <elementGuidId>f7f75df8-0714-46e0-b38f-8d557da80175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.p-ripple.p-element.ng-tns-c170-10.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e4c6d533-880f-4680-8226-1cf0433ebcbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active-route</value>
+      <webElementGuid>3da4b6f1-ec94-481a-aa57-67492653eecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element ng-tns-c170-10 ng-star-inserted</value>
+      <webElementGuid>cf0e8435-d980-4461-8442-bd57674328be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>63bc3220-2447-487e-bac8-44751f562209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/users</value>
+      <webElementGuid>76e2a6dc-1a97-474a-b3f0-cbcc3e6d548d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Users</value>
+      <webElementGuid>253b9d55-b692-45aa-bf79-47ba71fe032f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;blocked-scroll&quot;]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static layout-mobile-active&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/app-menu[1]/div[@class=&quot;layout-sidebar&quot;]/div[@class=&quot;layout-menu-container&quot;]/ul[@class=&quot;layout-menu&quot;]/li[@class=&quot;ng-tns-c170-4 layout-root-menuitem ng-star-inserted&quot;]/ul[@class=&quot;ng-tns-c170-4 ng-trigger ng-trigger-children ng-star-inserted&quot;]/li[@class=&quot;ng-tns-c170-10 ng-tns-c170-4 ng-star-inserted&quot;]/a[@class=&quot;p-ripple p-element ng-tns-c170-10 ng-star-inserted&quot;]</value>
+      <webElementGuid>7218281e-f860-40bc-8187-364e51d6333d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/following::a[1]</value>
+      <webElementGuid>b01d10df-5b5d-4e71-b8cd-d86c1e5a767b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Players'])[1]/following::a[2]</value>
+      <webElementGuid>31d95b74-7dae-4cab-b01c-c31998ca140f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b341a18-fc95-4bc5-8a14-6e7dd354c30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/users')]</value>
+      <webElementGuid>e3f94fcf-ef23-491b-8847-b67aa9229214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>2146ef2f-df5d-453e-bfb3-5508944cb811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/users' and (text() = 'Users' or . = 'Users')]</value>
+      <webElementGuid>e305d5f4-ab4b-4c33-ae64-181219e0754c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

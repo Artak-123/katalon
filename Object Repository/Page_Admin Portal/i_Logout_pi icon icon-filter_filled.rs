@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logout_pi icon icon-filter_filled</name>
+   <tag></tag>
+   <elementGuidId>0ec48d24-c218-4742-a8d9-5ae3026422f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.icon.icon-filter_filled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d6716678-b68e-4d4d-a6f4-3058b1220ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi icon icon-filter_filled</value>
+      <webElementGuid>b402a27c-5767-4aed-8898-33bd26022945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-players[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-filters[1]/p-toolbar[@class=&quot;p-element&quot;]/div[@class=&quot;p-toolbar p-component&quot;]/div[@class=&quot;p-toolbar-group-left ng-star-inserted&quot;]/div[@class=&quot;filters-sidebar-btn ng-star-inserted&quot;]/i[@class=&quot;pi icon icon-filter_filled&quot;]</value>
+      <webElementGuid>83201009-4283-402d-ad57-73598154d07a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>7c387e52-d16e-4b92-bb85-3f6392805700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_nx</name>
+   <tag></tag>
+   <elementGuidId>915753dc-75d0-484c-acd0-79d58d748eb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Partner'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-ripple.p-element.p-multiselect-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2c1043c5-f1e4-4e88-87c1-add80d851317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-multiselect-item</value>
+      <webElementGuid>1938cdf9-33dd-4eb4-bf9b-2db4a1c347d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>nx</value>
+      <webElementGuid>8d4a2c63-de57-4e05-bb47-3b513d766be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>99ada50d-a6ee-429a-8368-d5012cc55c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nx</value>
+      <webElementGuid>17d43fb1-212b-4d65-bd56-bcc416ed1610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-users[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-filters[1]/p-toolbar[@class=&quot;p-element&quot;]/div[@class=&quot;p-toolbar p-component&quot;]/div[@class=&quot;p-toolbar-group-left ng-star-inserted&quot;]/app-m-filters[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;filter-sidebar-left filter-sidebar-left-active&quot;]/form[@class=&quot;ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;filters-actions&quot;]/div[@class=&quot;filters-section&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-fluid partners ng-star-inserted&quot;]/div[@class=&quot;selected-filter-result active-filter&quot;]/p-multiselect[@class=&quot;p-element p-inputwrapper multiselect-custom ng-tns-c70-18 ng-pristine ng-valid ng-star-inserted ng-touched p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c70-18 p-multiselect p-component p-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c70-18 p-multiselect-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-multiselect-items-wrapper ng-tns-c70-18&quot;]/ul[@class=&quot;p-multiselect-items p-component ng-tns-c70-18&quot;]/p-multiselectitem[@class=&quot;p-element ng-tns-c70-18 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-multiselect-item&quot;]</value>
+      <webElementGuid>4e386a76-7c07-4188-872a-048707c47249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Partner'])[1]/following::li[1]</value>
+      <webElementGuid>5c15416a-811e-481c-92d1-8772a2f3fe1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/following::li[1]</value>
+      <webElementGuid>72ecb8f7-2c96-4169-8416-cf644d485627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ghalbet'])[1]/preceding::li[1]</value>
+      <webElementGuid>41e98bd2-f4ae-4d88-a212-86ab88a2ab5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-multiselectitem/li</value>
+      <webElementGuid>670c6f5b-c820-4214-acf2-228ed3e46ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'nx' or . = 'nx')]</value>
+      <webElementGuid>1da564d0-3a46-4eb7-a0bf-2c45dc2e3cf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

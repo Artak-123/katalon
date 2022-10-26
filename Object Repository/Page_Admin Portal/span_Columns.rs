@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Columns</name>
+   <tag></tag>
+   <elementGuidId>77f5cc1a-3d33-4a2e-94f1-e29076d9f413</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='joymatik'])[9]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ag-side-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0679814-9628-4b14-b929-9c07b048baf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-side-button-label</value>
+      <webElementGuid>7c97f447-abdc-4028-a6dd-ea02e6c52c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Columns</value>
+      <webElementGuid>06f5ab3b-282b-4de5-8723-2e76f054c8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-players[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-ag-table[1]/ag-grid-angular[@class=&quot;ag-theme-alpine&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-side-bar ag-unselectable ag-side-bar-right ag-focus-managed&quot;]/div[@class=&quot;ag-side-buttons&quot;]/div[@class=&quot;ag-side-button&quot;]/button[@class=&quot;ag-side-button-button&quot;]/span[@class=&quot;ag-side-button-label&quot;]</value>
+      <webElementGuid>0eeba749-fdef-4c03-9085-c924655b3a77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='joymatik'])[9]/following::span[2]</value>
+      <webElementGuid>6b94d3bb-2b4d-4fa6-a709-0b7c18303827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[18]/following::span[3]</value>
+      <webElementGuid>21829272-eb4b-4687-8677-f83a997ab472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[3]/preceding::span[2]</value>
+      <webElementGuid>92e644f9-4a91-4847-b8bc-a9cd69441662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::span[7]</value>
+      <webElementGuid>7a680518-4717-49a5-8766-d2ec1b259ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Columns']/parent::*</value>
+      <webElementGuid>9df9b20e-8e41-4b2e-bccf-156fc4fa539e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/span</value>
+      <webElementGuid>27bb3f39-2223-48de-b20b-dba6994a134e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Columns' or . = 'Columns')]</value>
+      <webElementGuid>8f310e80-ff19-48a4-ae69-180f3621ee28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

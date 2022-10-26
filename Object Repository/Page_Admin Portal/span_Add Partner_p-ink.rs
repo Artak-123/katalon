@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Partner_p-ink</name>
+   <tag></tag>
+   <elementGuidId>cfd9eb58-3a43-42d5-b641-0553eb3f4bb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-ripple.p-button-primary.p-button.p-component > span.p-ink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f38c4bac-a07e-4717-b8c9-31ccc2ffe892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>4e38aa60-2481-41a0-bd32-42524b29daab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-partners[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/div[@class=&quot;right-section-btn&quot;]/button[@class=&quot;p-element p-ripple p-button-primary p-button p-component&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>83c82daa-be65-4d7e-ab50-918e04a18f51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>4d4ddcc9-2fcb-4d97-b679-8f8c4a7c7ab8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

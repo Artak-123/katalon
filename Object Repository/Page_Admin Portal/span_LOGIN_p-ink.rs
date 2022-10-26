@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LOGIN_p-ink</name>
+   <tag></tag>
+   <elementGuidId>22db591e-0063-4242-94c7-6424ee1a03ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ddc56c3-d0a6-4563-ae40-d5567ff24487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>5659211a-94a1-4477-bc6c-040c4a88b62f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;recaptcha&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;login-body&quot;]/div[@class=&quot;login-wrapper&quot;]/div[@class=&quot;login-panel&quot;]/form[@class=&quot;login-form-section ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;login-form&quot;]/p-button[@class=&quot;p-element&quot;]/button[@class=&quot;p-ripple p-element button p-button p-component&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>7975ff06-863d-4d2b-a9d0-2bf68e66d9cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>13789a80-1580-40e0-982a-e58b39e80fc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

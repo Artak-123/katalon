@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login Successful_p-ripple p-element _91a781</name>
+   <tag></tag>
+   <elementGuidId>cbba75f2-d5cb-4627-9b55-ec96d0613c06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-element.p-toast-icon-close.p-link.ng-tns-c96-21.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>019dd313-93a2-4337-a474-2dc90e48ff1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c03f6e1a-7f4e-40a3-9bf0-a37411e63a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-toast-icon-close p-link ng-tns-c96-21 ng-star-inserted</value>
+      <webElementGuid>1589df6c-94f5-4552-be5d-1844bcbfe0eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/p-toast[@class=&quot;p-element ng-tns-c97-0&quot;]/div[@class=&quot;ng-tns-c97-0 p-toast p-component p-toast-top-right&quot;]/p-toastitem[@class=&quot;p-element ng-tns-c96-21 ng-trigger ng-trigger-toastAnimation ng-tns-c97-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c96-21 ng-trigger ng-trigger-messageState p-toast-message-success p-toast-message&quot;]/div[@class=&quot;p-toast-message-content ng-tns-c96-21&quot;]/button[@class=&quot;p-ripple p-element p-toast-icon-close p-link ng-tns-c96-21 ng-star-inserted&quot;]</value>
+      <webElementGuid>eb787e4f-453f-4ba7-b8e3-9df23fcb03b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>3a7bd58b-59dc-4ed4-ba5f-7ced4291bdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login Successful'])[1]/following::button[1]</value>
+      <webElementGuid>23bcefb4-3f35-4cdf-925b-8ee49d2b570f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[8]/following::button[1]</value>
+      <webElementGuid>a8a1dbd8-79c5-47c1-8046-f5ab01b31f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-toastitem/div/div/button</value>
+      <webElementGuid>df1ca4c6-8df5-4be8-a748-fa5c42b1e19a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>60a5e8a2-474a-44e4-9ce5-9cbda1af352a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

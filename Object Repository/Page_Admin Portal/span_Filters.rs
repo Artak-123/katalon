@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filters</name>
+   <tag></tag>
+   <elementGuidId>8a580ed8-0bab-4895-a6ea-62421a92af3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1bf264d7-4f96-472f-88b3-d2eb440e09f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-side-button-label</value>
+      <webElementGuid>d72cf4a5-82af-4419-b2a4-2a7da1dd1d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filters</value>
+      <webElementGuid>9008df35-11df-4c1b-9cee-d8dd767cfaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-players[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-ag-table[1]/ag-grid-angular[@class=&quot;ag-theme-alpine&quot;]/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-side-bar ag-unselectable ag-side-bar-right ag-focus-managed&quot;]/div[@class=&quot;ag-side-buttons&quot;]/div[@class=&quot;ag-side-button&quot;]/button[@class=&quot;ag-side-button-button&quot;]/span[@class=&quot;ag-side-button-label&quot;]</value>
+      <webElementGuid>dde7a909-dbd6-49c9-9b55-7bee846ed490</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/following::span[2]</value>
+      <webElementGuid>2b581e04-b65d-4e68-a6bb-d0ea27f0f424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='joymatik'])[9]/following::span[4]</value>
+      <webElementGuid>01e4cfde-7379-4a03-b86f-fac91a1af686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::span[5]</value>
+      <webElementGuid>7805cafb-0e8f-43fc-8fe5-7813317b27c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Column Labels'])[1]/preceding::span[7]</value>
+      <webElementGuid>659fde40-5a9d-40b9-800d-0963208f5bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button/span</value>
+      <webElementGuid>712c7b31-ca2a-420c-a2b0-29630b6e8c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Filters' or . = 'Filters')]</value>
+      <webElementGuid>0f643f82-2424-48d4-bd0c-2877fdfb76fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

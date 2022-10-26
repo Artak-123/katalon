@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apply</name>
+   <tag></tag>
+   <elementGuidId>00602469-dad0-4c13-9843-8421a70b8c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e769d6a-57f4-40de-89a4-21a3f6fabb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>97e96953-edd9-4895-b2eb-1ccf6981e19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+      <webElementGuid>d88ab198-809a-4938-a6a7-a212f31e20ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-players[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-filters[1]/p-toolbar[@class=&quot;p-element&quot;]/div[@class=&quot;p-toolbar p-component&quot;]/div[@class=&quot;p-toolbar-group-left ng-star-inserted&quot;]/app-m-filters[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;filter-sidebar-left filter-sidebar-left-active&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;filters-actions&quot;]/div[@class=&quot;filters-section&quot;]/div[@class=&quot;p-fluid ng-star-inserted&quot;]/div[@class=&quot;radio-btn-date-option&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper ng-tns-c50-22 p-inputwrapper-filled ng-valid ng-star-inserted ng-touched ng-dirty&quot;]/span[@class=&quot;ng-tns-c50-22 p-calendar p-calendar-w-btn&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c50-22 filter-p-calendar p-datepicker p-component ng-star-inserted&quot;]/p-footer[@class=&quot;calendar-footer ng-tns-c50-22&quot;]/div[@class=&quot;calendar-footer-buttons&quot;]/button[@class=&quot;p-element p-button-text p-button p-component&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>ef4ab47d-a7fc-4c8c-8189-0560d5875b49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>63d5f5e4-2474-48b5-9642-0f299504fa01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[86]</value>
+      <webElementGuid>58220705-7aa5-4cbe-8673-510a69afd767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/preceding::span[2]</value>
+      <webElementGuid>26cc8836-bd3d-4f60-bebc-2373c4a0df41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::span[4]</value>
+      <webElementGuid>6bb3bab2-23eb-486f-b36d-af364170f1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
+      <webElementGuid>b63e7b53-bed0-4b6e-8596-fb54dd81f631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-footer/div/button[2]/span</value>
+      <webElementGuid>2461360a-9a74-4a97-9e12-91cf54beefb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>eb4c74d5-c583-4881-b3e5-df96447c2970</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

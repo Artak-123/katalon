@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Multi Account Detection</name>
+   <tag></tag>
+   <elementGuidId>6faf46bf-d84b-407d-8f40-3e23bf54fe64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Report By Providers'])[2]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.p-ripple.p-element.ng-tns-c170-17.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6cb01ac5-b3ed-472d-aaf1-b06516369015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active-route</value>
+      <webElementGuid>c173e326-884d-4925-985f-1c2d8110bdfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element ng-tns-c170-17 ng-star-inserted</value>
+      <webElementGuid>3696ab37-6cff-4187-b6b3-ad017c51557f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3130faa5-a569-4855-837e-e9074dfd20e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/reports/multi-account-detection</value>
+      <webElementGuid>878ef037-cfa3-451d-80fb-641d04357b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Multi Account Detection</value>
+      <webElementGuid>d605b02e-155e-44c9-bb91-5bf747345fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/app-menu[1]/div[@class=&quot;layout-sidebar&quot;]/div[@class=&quot;layout-menu-container&quot;]/ul[@class=&quot;layout-menu&quot;]/li[@class=&quot;ng-tns-c170-4 layout-root-menuitem ng-star-inserted&quot;]/ul[@class=&quot;ng-tns-c170-4 ng-trigger ng-trigger-children ng-star-inserted&quot;]/li[@class=&quot;ng-tns-c170-11 ng-tns-c170-4 ng-star-inserted active-menuitem&quot;]/ul[@class=&quot;ng-tns-c170-11 ng-trigger ng-trigger-children ng-star-inserted&quot;]/li[@class=&quot;ng-tns-c170-17 ng-tns-c170-11 ng-star-inserted&quot;]/a[@class=&quot;p-ripple p-element ng-tns-c170-17 ng-star-inserted&quot;]</value>
+      <webElementGuid>1e1ae196-8259-4b53-a1ca-2b5d23d759b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report By Providers'])[2]/following::a[1]</value>
+      <webElementGuid>5a865a13-b8ce-4015-91a9-0f7a754b83ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report By Partners'])[1]/following::a[2]</value>
+      <webElementGuid>3f8e40b8-b6ea-417c-8902-b65105ed4b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAD Identification Count'])[1]/preceding::a[1]</value>
+      <webElementGuid>c105cf20-08cd-4b55-98a4-e793c089b3ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/reports/multi-account-detection')]</value>
+      <webElementGuid>862fd331-055f-4cc8-a781-6a1b3ee8acd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li[3]/a</value>
+      <webElementGuid>ed3c91b4-4fd5-4e3d-9bb8-f1a99ba1935a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/reports/multi-account-detection' and (text() = 'Multi Account Detection' or . = 'Multi Account Detection')]</value>
+      <webElementGuid>341b8f0d-277a-4355-bdff-209d723f2198</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

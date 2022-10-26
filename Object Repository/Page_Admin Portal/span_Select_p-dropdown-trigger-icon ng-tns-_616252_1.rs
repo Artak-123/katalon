@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_p-dropdown-trigger-icon ng-tns-_616252_1</name>
+   <tag></tag>
+   <elementGuidId>72a209b9-048b-4c94-a959-aa2d54c34069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='currencyId']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-trigger-icon.ng-tns-c45-22.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ced4c0e6-e2c9-4120-8d41-305764a23c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c45-22 pi pi-chevron-down</value>
+      <webElementGuid>14146097-543f-4a2b-ac32-90d7f157db2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;currencyId&quot;)/div[@class=&quot;ng-tns-c45-22 p-dropdown p-component p-dropdown-open&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c45-22&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c45-22 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>701f0106-8815-4f9e-9fb1-0ee3216b9bdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='currencyId']/div/div[2]/span</value>
+      <webElementGuid>dea1a54f-8cad-400b-89e0-937a1d611a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/p-dropdown/div/div[2]/span</value>
+      <webElementGuid>f5a62d7f-b5b3-4a1f-86ee-679448af8d8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

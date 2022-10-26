@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_6</name>
+   <tag></tag>
+   <elementGuidId>05bdcfe3-72f4-41be-99cb-048d022eea07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[23]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a5d98d9-0354-44d6-8ba5-c76000e9b2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7c81c416-cfa0-4cd6-92b1-f2a2dd188cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element ng-tns-c50-18 ng-star-inserted</value>
+      <webElementGuid>996e6663-0caa-4ea8-80bf-a15365138fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>b0318988-de28-4e65-b10a-b17398575d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-bets[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-filters[1]/p-toolbar[@class=&quot;p-element&quot;]/div[@class=&quot;p-toolbar p-component&quot;]/div[@class=&quot;p-toolbar-group-left ng-star-inserted&quot;]/app-m-filters[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;filter-sidebar-left filter-sidebar-left-active&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;filters-actions&quot;]/div[@class=&quot;filters-section&quot;]/div[@class=&quot;p-fluid ng-star-inserted&quot;]/div[@class=&quot;radio-btn-date-option&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper ng-tns-c50-18 p-inputwrapper-filled ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/span[@class=&quot;ng-tns-c50-18 p-calendar p-calendar-w-btn&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c50-18 filter-p-calendar p-datepicker p-component ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group-container ng-tns-c50-18 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group ng-tns-c50-18 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar-container ng-tns-c50-18 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-calendar ng-tns-c50-18&quot;]/tbody[@class=&quot;ng-tns-c50-18&quot;]/tr[@class=&quot;ng-tns-c50-18 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c50-18 ng-star-inserted&quot;]/span[@class=&quot;p-ripple p-element ng-tns-c50-18 ng-star-inserted&quot;]</value>
+      <webElementGuid>f4cb76f2-9637-40c4-91f9-d3f031f07574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[23]</value>
+      <webElementGuid>b4abefa8-d13e-4a2e-9ca8-a04d73e9e3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[24]</value>
+      <webElementGuid>8f884104-d487-48cb-8525-87627489c65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[62]</value>
+      <webElementGuid>c4afa311-dc0a-4a33-94a8-4d55c698be88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::span[63]</value>
+      <webElementGuid>dc8b1c77-1dff-4a45-857b-7ae50cde7666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6']/parent::*</value>
+      <webElementGuid>3ca11a50-1ffe-4408-b3fb-b37f7e2f2930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/span</value>
+      <webElementGuid>8fb98c5b-fc3f-4f20-9844-38c1d60cb524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '6' or . = '6')]</value>
+      <webElementGuid>a2b78b3f-3b29-4425-9c20-70ad8bc248c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

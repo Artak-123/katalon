@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Users</name>
+   <tag></tag>
+   <elementGuidId>0ee3176a-2653-4867-a082-7cfbf7f72979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::ul[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>67df2aa2-08ae-478c-a9cc-c087c9bbff9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Users</value>
+      <webElementGuid>8ec02e04-13e8-41b3-886c-2e799b5c8d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/div[@class=&quot;topbar-left&quot;]/p-breadcrumb[@class=&quot;p-element&quot;]/div[@class=&quot;p-breadcrumb p-component&quot;]/ul[1]</value>
+      <webElementGuid>7f743ca1-db64-4568-9b79-d9c802e8e13d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::ul[1]</value>
+      <webElementGuid>3753c615-e5be-46b6-a927-9f5da390c579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>4a02d897-b652-4b68-8b7d-2bc8a5dbc44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Users' or . = 'Users')]</value>
+      <webElementGuid>46212bb4-882b-4e69-9ef9-f31456022734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

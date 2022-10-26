@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Partners</name>
+   <tag></tag>
+   <elementGuidId>a2946e22-0387-4a94-8814-1576bed93010</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::ul[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>106a337a-bdfb-4a73-a4f7-7db03c72e875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Partners</value>
+      <webElementGuid>9083c1e8-4a4e-491b-8049-62cdf3e78668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/div[@class=&quot;topbar-left&quot;]/p-breadcrumb[@class=&quot;p-element&quot;]/div[@class=&quot;p-breadcrumb p-component&quot;]/ul[1]</value>
+      <webElementGuid>b3d52e8a-4915-4161-9d7b-afe0548a83fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::ul[1]</value>
+      <webElementGuid>763e8764-a9e6-4b00-90b4-374b543b41f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>a1d3fc13-a5dd-40f8-8195-9d3ed60034aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Partners' or . = 'Partners')]</value>
+      <webElementGuid>b639cfa6-c50d-48f1-ab05-74d970821a61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

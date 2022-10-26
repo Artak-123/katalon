@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Previous Month_p-radiobutton-box</name>
+   <tag></tag>
+   <elementGuidId>895d7313-316e-4396-80d6-56c27ac39b44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-radiobutton[@id='PreviousMonth']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-radiobutton-box</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45058ca1-507c-48a2-9929-d3ad23ee24a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-radiobutton-box</value>
+      <webElementGuid>2a4e45c3-0fd4-450e-bf78-ff8fea096280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PreviousMonth&quot;)/div[@class=&quot;p-radiobutton p-component&quot;]/div[@class=&quot;p-radiobutton-box&quot;]</value>
+      <webElementGuid>440d8b68-6040-4f32-9870-544cd107d26a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-radiobutton[@id='PreviousMonth']/div/div[2]</value>
+      <webElementGuid>833d055a-2480-4f55-8fb1-824764a64d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous Month'])[1]/following::div[4]</value>
+      <webElementGuid>eea8e427-de7d-4388-8836-46be880f1620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Partner'])[1]/following::div[8]</value>
+      <webElementGuid>be4de129-5b5f-4711-a8e8-ebe431197fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 30 Days'])[1]/preceding::div[1]</value>
+      <webElementGuid>d78fe614-a645-47d3-8cb5-74a2ed4834fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 Days'])[1]/preceding::div[7]</value>
+      <webElementGuid>94f9e7f9-bbc2-436e-87c2-f93e7bd5bbf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-radiobutton/div/div[2]</value>
+      <webElementGuid>8de5730e-2a64-4273-a0c0-47361e347be2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Deposits_p-ink</name>
+   <tag></tag>
+   <elementGuidId>39609396-9b62-4db0-b049-6a64200d1301</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/ul/li[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50c36a60-8cc9-446e-850b-19955aa88e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>1dea95e1-a5cd-43c8-9e35-ea903c424449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-player[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tabs-wrapper&quot;]/p-tabmenu[@class=&quot;p-element&quot;]/div[@class=&quot;p-tabmenu p-component p-tabmenu-scrollable&quot;]/div[@class=&quot;p-tabmenu-nav-container&quot;]/div[@class=&quot;p-tabmenu-nav-content&quot;]/ul[@class=&quot;p-tabmenu-nav p-reset&quot;]/li[@class=&quot;p-element p-tabmenuitem ng-star-inserted&quot;]/a[@class=&quot;p-ripple p-element p-menuitem-link ng-star-inserted&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>0ad1d25f-f1ca-44e5-a199-c2dc1904d6de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a/span[2]</value>
+      <webElementGuid>28311335-775a-48dd-9dde-8c2491a26391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

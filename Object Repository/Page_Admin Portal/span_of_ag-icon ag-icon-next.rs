@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_of_ag-icon ag-icon-next</name>
+   <tag></tag>
+   <elementGuidId>f2d2089d-5d8d-4353-9d9f-c4d9d9bf4eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ag-44']/span[2]/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ag-icon.ag-icon-next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3cdd1c3-8964-457d-b50d-c0441ee5d651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-icon ag-icon-next</value>
+      <webElementGuid>aec15a75-1c71-4da7-a10c-1cbe1f9237c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>767f36dc-0bf3-44d2-828e-bfa96a4fccba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>3eb9fb22-51f6-4854-be14-889195676d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ag-44&quot;)/span[@class=&quot;ag-paging-page-summary-panel&quot;]/div[@class=&quot;ag-paging-button ag-disabled&quot;]/span[@class=&quot;ag-icon ag-icon-next&quot;]</value>
+      <webElementGuid>f7487972-8d37-4b81-8555-614e11729c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ag-44']/span[2]/div[3]/span</value>
+      <webElementGuid>11d86309-828f-46de-a2a5-c61db05e18c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div[3]/span</value>
+      <webElementGuid>66226045-18c4-4388-bda2-ed022f69fad5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

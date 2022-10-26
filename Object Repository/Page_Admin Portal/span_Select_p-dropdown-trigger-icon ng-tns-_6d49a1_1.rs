@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_p-dropdown-trigger-icon ng-tns-_6d49a1_1</name>
+   <tag></tag>
+   <elementGuidId>eb2900f9-06b4-47fa-98dc-f2f784ceb073</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='State']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-trigger-icon.ng-tns-c45-23.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d838580-18ca-4396-bc98-a540ceaf556e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c45-23 pi pi-chevron-down</value>
+      <webElementGuid>46bc8545-af54-4de1-987e-e97de0399c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;State&quot;)/div[@class=&quot;ng-tns-c45-23 p-dropdown p-component p-dropdown-open&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c45-23&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c45-23 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>d427fa62-1e2c-4838-b620-48d0446bfddf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='State']/div/div[2]/span</value>
+      <webElementGuid>6c75d892-c27b-41d3-b7e6-45f16abf2e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/p-dropdown/div/div[2]/span</value>
+      <webElementGuid>33c84f1e-aa7f-48e5-aa85-80d479f978ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

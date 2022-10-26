@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_p-dropdown-trigger-icon ng-tns-_312a07</name>
+   <tag></tag>
+   <elementGuidId>c0b825f5-9e6e-4277-8ec5-1bcaddc81de0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='partnerId']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-trigger-icon.ng-tns-c45-20.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2ea6a63-c57b-44ff-b3a8-e2b5ed141fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c45-20 pi pi-chevron-down</value>
+      <webElementGuid>e522776b-0c54-437c-86cf-2ce8dec3ce84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;partnerId&quot;)/div[@class=&quot;ng-tns-c45-20 p-dropdown p-component&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c45-20&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c45-20 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>17259302-e3cc-4e72-b348-d23b73d4cc4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='partnerId']/div/div[2]/span</value>
+      <webElementGuid>8e8cd552-6792-47cc-962f-b4a9fc34f3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p-dropdown/div/div[2]/span</value>
+      <webElementGuid>d4ec561c-5c24-426a-9bb1-146ee797f9e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

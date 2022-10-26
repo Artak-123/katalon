@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Partner_p-ink</name>
+   <tag></tag>
+   <elementGuidId>4d927a83-af86-4d42-b076-cfcb37725b07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-ripple.p-element.p-multiselect-close.p-link.ng-tns-c70-20 > span.p-ink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a51a2ec0-6987-418a-81c6-b465e8e0238d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink</value>
+      <webElementGuid>66bb36d5-0aa4-4de6-9874-e4c63e264440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-players[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;table-wrapper table-wrapper-full-page-height&quot;]/app-filters[1]/p-toolbar[@class=&quot;p-element&quot;]/div[@class=&quot;p-toolbar p-component&quot;]/div[@class=&quot;p-toolbar-group-left ng-star-inserted&quot;]/app-m-filters[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;filter-sidebar-left filter-sidebar-left-active&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;filters-actions&quot;]/div[@class=&quot;filters-section&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-fluid partners ng-star-inserted&quot;]/div[@class=&quot;selected-filter-result active-filter&quot;]/p-multiselect[@class=&quot;p-element p-inputwrapper multiselect-custom ng-tns-c70-20 ng-untouched ng-pristine ng-valid ng-star-inserted p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c70-20 p-multiselect p-component p-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c70-20 p-multiselect-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-multiselect-header ng-tns-c70-20 ng-star-inserted&quot;]/button[@class=&quot;p-ripple p-element p-multiselect-close p-link ng-tns-c70-20&quot;]/span[@class=&quot;p-ink&quot;]</value>
+      <webElementGuid>f452adba-cdd6-4e4e-927d-cb4eb51ea8b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>83b58dd8-5692-4aa8-816f-f34f904bfc4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

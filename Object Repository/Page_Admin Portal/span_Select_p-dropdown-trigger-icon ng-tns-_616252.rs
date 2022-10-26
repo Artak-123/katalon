@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select_p-dropdown-trigger-icon ng-tns-_616252</name>
+   <tag></tag>
+   <elementGuidId>d2a5a21a-8aa6-4871-8e37-41cea2fedf6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown[@id='currencyId']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-trigger-icon.ng-tns-c45-22.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9f5a4c14-3a54-456a-9efa-ad57d4d3c4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c45-22 pi pi-chevron-down</value>
+      <webElementGuid>5128a198-f6b0-44e0-a287-86f932267461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;currencyId&quot;)/div[@class=&quot;ng-tns-c45-22 p-dropdown p-component&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c45-22&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c45-22 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>1d7012b6-3075-4ca2-a5c6-05155f08a715</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-dropdown[@id='currencyId']/div/div[2]/span</value>
+      <webElementGuid>f31d38ba-4b02-4513-a2fa-55ed2719e97d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/p-dropdown/div/div[2]/span</value>
+      <webElementGuid>16c8fbf3-7654-4ba7-8b16-c848fa7594c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

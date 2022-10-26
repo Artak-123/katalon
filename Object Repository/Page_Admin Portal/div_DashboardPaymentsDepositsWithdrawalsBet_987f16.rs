@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DashboardPaymentsDepositsWithdrawalsBet_987f16</name>
+   <tag></tag>
+   <elementGuidId>e994cd7f-b535-4875-9d26-9d874d542fc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.layout-menu-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba48f85f-0e7d-40ff-ba2d-badce6dd76e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-menu-container</value>
+      <webElementGuid>4a928f4d-e88e-4cd0-8a19-2a6c2cd0b42a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DashboardPaymentsDepositsWithdrawalsBetsPlayersPartnersUsersReportsReport By PartnersReport By ProvidersMulti Account Detection</value>
+      <webElementGuid>23a069c4-29c7-40d7-b530-98cb5da694e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;blocked-scroll&quot;]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static layout-mobile-active&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/app-menu[1]/div[@class=&quot;layout-sidebar&quot;]/div[@class=&quot;layout-menu-container&quot;]</value>
+      <webElementGuid>12bd4fb8-096a-4de9-94c7-dd090fc60bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[2]</value>
+      <webElementGuid>df289267-1e6f-4c53-9c83-b100e7966b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-menu/div/div</value>
+      <webElementGuid>7a843d47-b353-42cd-8f97-bd03cd6684f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DashboardPaymentsDepositsWithdrawalsBetsPlayersPartnersUsersReportsReport By PartnersReport By ProvidersMulti Account Detection' or . = 'DashboardPaymentsDepositsWithdrawalsBetsPlayersPartnersUsersReportsReport By PartnersReport By ProvidersMulti Account Detection')]</value>
+      <webElementGuid>9db36aab-d9e7-4dcd-b8ab-088859a9a052</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

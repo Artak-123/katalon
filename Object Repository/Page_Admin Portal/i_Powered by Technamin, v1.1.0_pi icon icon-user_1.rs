@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Powered by Technamin, v1.1.0_pi icon icon-user_1</name>
+   <tag></tag>
+   <elementGuidId>c09d72ac-96c2-40fb-ad2b-cbeb1cae4080</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/ul/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.icon.icon-user</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c086e441-2494-45eb-ae35-6c8982d5aff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi icon icon-user</value>
+      <webElementGuid>c82d7198-6c19-4f5b-887e-d13b73833367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/app-topbar[1]/div[@class=&quot;layout-topbar&quot;]/div[@class=&quot;topbar-right&quot;]/ul[@class=&quot;topbar-menu&quot;]/li[@class=&quot;profile-item ng-star-inserted active-menuitem fadeInDown&quot;]/a[1]/i[@class=&quot;pi icon icon-user&quot;]</value>
+      <webElementGuid>aabac1ac-9a70-4f93-b2f5-638f9258330a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a/i</value>
+      <webElementGuid>6cdc0876-1920-48ab-8a43-8315fe2b4bb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

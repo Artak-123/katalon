@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_GGR - 19_p-button-icon icon-fast-search</name>
+   <tag></tag>
+   <elementGuidId>5ea79f63-170d-4c4c-96d4-353c7592582e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-quick-search/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-icon.icon-fast-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e2dbfdb-d351-4d81-b695-0a43f0577511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-icon icon-fast-search</value>
+      <webElementGuid>9ee2ff9e-9545-4513-acf3-dbc55056a43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a095d452-c638-4913-8127-8cf861997909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-quick-search[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;quick-search-layout active&quot;]/button[@class=&quot;p-element quick-search-button p-button p-component p-button-icon-only quick-search-button-active&quot;]/span[@class=&quot;p-button-icon icon-fast-search&quot;]</value>
+      <webElementGuid>fce6a8b0-bd5d-469e-bf4d-86c2ab49305d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-quick-search/div/button/span</value>
+      <webElementGuid>2a28660b-43f6-4082-91ba-77d3cf316e7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

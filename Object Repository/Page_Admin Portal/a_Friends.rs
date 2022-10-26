@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Friends</name>
+   <tag></tag>
+   <elementGuidId>087ea877-6a0a-43c5-84df-ffa334506e78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Account Detection'])[3]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c9ee6c2-6be1-465f-a875-3f469ca2c6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>b914d663-6229-459e-b5d4-8923a6985a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-menuitem-link ng-star-inserted</value>
+      <webElementGuid>29b89af2-c1f3-4da2-9086-874748d8da29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9c66bde1-a535-4d6b-bb46-0946847896d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/players/922826/friends</value>
+      <webElementGuid>074f7aa4-bc7d-464f-8ef1-371df47082e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Friends</value>
+      <webElementGuid>cc02d82d-b8f6-41db-bfdb-a48df2567153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-wrapper layout-sidebar-darkgray layout-static&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/app-player[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tabs-wrapper&quot;]/p-tabmenu[@class=&quot;p-element&quot;]/div[@class=&quot;p-tabmenu p-component p-tabmenu-scrollable&quot;]/div[@class=&quot;p-tabmenu-nav-container&quot;]/div[@class=&quot;p-tabmenu-nav-content&quot;]/ul[@class=&quot;p-tabmenu-nav p-reset&quot;]/li[@class=&quot;p-element p-tabmenuitem ng-star-inserted&quot;]/a[@class=&quot;p-ripple p-element p-menuitem-link ng-star-inserted&quot;]</value>
+      <webElementGuid>37ff3505-8e2c-4d0c-89ec-16bb8ef0dc1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Account Detection'])[3]/following::a[1]</value>
+      <webElementGuid>7f29517d-3c1c-4036-8d33-9a2885250dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::a[2]</value>
+      <webElementGuid>42e7bcab-0771-4e96-bfea-30918f3eb422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logs'])[1]/preceding::a[1]</value>
+      <webElementGuid>e492bef3-b119-48f1-ac9d-b3e1eea02f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/players/922826/friends')]</value>
+      <webElementGuid>a25c542e-8d51-480e-ad8d-967cbf88a6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[7]/a</value>
+      <webElementGuid>0f92911f-19b4-47a5-ad7c-05099985d2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/players/922826/friends' and (text() = 'Friends' or . = 'Friends')]</value>
+      <webElementGuid>d137014a-701c-42e3-9dbd-555dba78278f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
